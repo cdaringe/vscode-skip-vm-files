@@ -1,0 +1,8 @@
+{
+  "name": "vscode-skip-vm-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cdaringe/vscode-skip-vm-files.git",
+  "author": "cdaringe <cdaringe@gmail.com>",
+  "license": "MIT"
+}
